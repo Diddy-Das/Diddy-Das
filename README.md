@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Diddy-Das
 - 👀 I’m interested in connecting with smart software developer 
 - 🌱 I’m currently learning every possible program to help me build the future internet interface 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on building the future of internet the current UI is boring and archaic 
 - 📫 How to reach me ...
 
 <!---
